@@ -1,0 +1,23 @@
+postcode,city,neighbourhood,min_order,delivery_fee,free_from,status
+3401,IJsselstein,Achterveld,25.00,0.00,0.00,open
+3402,IJsselstein,IJsselstein-Noord,25.00,0.00,0.00,open
+3403,IJsselstein,Rural Area,25.00,0.00,0.00,open
+3404,IJsselstein,Provincial Road,25.00,0.00,0.00,open
+3431,Nieuwegein,Jutphaas-Wijkersloot,17.50,0.00,0.00,open
+3432,Nieuwegein,Oudegein,17.50,0.00,0.00,open
+3433,Nieuwegein,De Wiers,17.50,0.00,0.00,open
+3434,Nieuwegein,Hoogzandveld,17.50,0.00,0.00,open
+3435,Nieuwegein,Doorslag,17.50,0.00,0.00,open
+3436,Nieuwegein,Batau-Zuid,17.50,0.00,0.00,open
+3437,Nieuwegein,Rijnenburg,17.50,0.00,0.00,open
+3438,Nieuwegein,Blokhoeve,17.50,0.00,0.00,open
+3439,Nieuwegein,Rural Area Vreeswijk,17.50,0.00,0.00,open
+3522,Utrecht,Rivierenwijk,25.00,0.00,0.00,open
+3524,Utrecht,Lunetten,30.00,0.00,0.00,open
+3525,Utrecht,Nieuw Hoograven,25.00,0.00,0.00,open
+3526,Utrecht,Utrecht Industrial Area,25.00,0.00,0.00,open
+3527,Utrecht,Van Vollenhovelaan,30.00,0.00,0.00,open
+3528,Utrecht,Polder Papendorp,30.00,0.00,0.00,open
+4131,Vianen,Vianen Industrial Estate,25.00,0.00,0.00,locked
+4132,Vianen,Zederik,35.00,0.00,0.00,open
+4133,Vianen,Monnikenhof,35.00,0.00,0.00,open

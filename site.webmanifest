@@ -1,0 +1,20 @@
+{
+ "name": "The Crispy Bird",
+ "short_name": "Crispy Bird",
+ "start_url": "index.html",
+ "display": "standalone",
+ "background_color": "#14110c",
+ "theme_color": "#c8902a",
+ "icons": [
+  {
+   "src": "img/logo-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "img/logo-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  }
+ ]
+}
